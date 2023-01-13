@@ -1,4 +1,4 @@
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.svg"
 
 const blogData = {
   name: "Underreacted",
@@ -26,6 +26,6 @@ const blogData = {
       minutes: 47,
     },
   ],
-};
+}
 
-export default blogData;
+export default blogData
